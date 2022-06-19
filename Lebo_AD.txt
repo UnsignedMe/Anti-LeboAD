@@ -1,0 +1,27 @@
+!Title: Lebo-AD
+!Version: 20220620
+!!!This list only applies to "AdGuard Home".
+||image.hpplay.cn^
+||tvapp.hpplay.cn^
+||h5.hpplay.com.cn^
+||hpplay.cdn.cibn.cc^
+||sdkauth.hpplay.cnv
+||imdns.hpplay.cn^
+||vipauth.hpplay.cn^
+||rp.hpplay.cn^
+||sl.hpplay.cn^
+||519332DA.rtc.youme.im^
+||hotupgrade.hpplay.cn^
+||pin.hpplay.cn^
+||1tvapp.hpplay.cn^
+||gslb.hpplay.cn^
+||adeng.hpplay.cn^
+||conf.hpplay.cn^
+||adcdn.hpplay.cn^
+||g.dtv.cn.miaozhen.com^
+||android.bugly.qq.com^
+||alog.umeng.com^
+||ad.hpplay.cn^
+||fix.hpplay.cn^
+||cdn.hpplay.com.cn^
+||rps.hpplay.cn^
